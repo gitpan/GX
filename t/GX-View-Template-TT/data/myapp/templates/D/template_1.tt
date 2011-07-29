@@ -1,0 +1,5 @@
+Template file: D/template_1.tt
+Template file encoding: UTF-8
+var_1: [% context %]
+var_2: [% context.stash.var_2 %]
+var_3: [% var_3 %]

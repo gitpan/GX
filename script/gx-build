@@ -1,0 +1,21 @@
+#!/usr/bin/perl
+
+# ----------------------------------------------------------------------------------------------------------------------
+# GX Framework (c) 2009-2011 Jörg A. Uzarek <uzarek@runlevelnull.de>
+# File: script/gx-build
+# ----------------------------------------------------------------------------------------------------------------------
+
+use strict;
+use warnings;
+
+
+eval { require GX::Script::Build::Application } or die <<EOT;
+GX::Script::Build::Application does not seem to be installed on your system.
+Please visit http://gxframework.org for detailed installation instructions.
+EOT
+
+
+GX::Script::Build::Application->run;
+
+
+__END__

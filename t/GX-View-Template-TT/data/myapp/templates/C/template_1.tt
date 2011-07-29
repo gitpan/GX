@@ -1,0 +1,7 @@
+Template file: C/template_1.tt
+Template file encoding: windows-1252
+Umlaute: ä ö ü
+Euro: €
+var_1: [% var_1 %]
+var_2: [% var_2 %]
+var_3: [% var_3 %]

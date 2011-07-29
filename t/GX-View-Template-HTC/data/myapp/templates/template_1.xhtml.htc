@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>template_1.xhtml.htc</title>
+</head>
+    <body>
+        <p>Template file: template_1.xhtml.htc</p>
+        <p>Template file encoding: UTF-8</p>
+        <p>Euro: €</p>
+        <p>Smiley: ☺</p>
+        <p>var_1: <!-- TMPL_VAR var_1 --></p>
+        <p>var_2: <!-- TMPL_VAR var_2 --></p>
+        <p>var_3: <!-- TMPL_VAR var_3 --></p>
+    </body>
+</html>

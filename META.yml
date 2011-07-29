@@ -1,0 +1,35 @@
+--- #YAML:1.0
+name:                GX
+version:             0.2000_01
+abstract:            The web framework for Perl
+license:             GPL_3
+author:              
+    - Jörg A. Uzarek <uzarek@runlevelnull.de>
+generated_by:        ExtUtils::MakeMaker version 6.42
+distribution_type:   module
+requires:     
+    Config:                        0
+    Cwd:                           0
+    Digest::MD5:                   0
+    Encode:                        0
+    Exporter:                      0
+    ExtUtils::MakeMaker:           0
+    File::Basename:                0
+    File::Copy:                    0
+    File::Find:                    0
+    File::Spec:                    0
+    File::Spec::Unix:              0
+    File::Temp:                    0
+    FindBin:                       0
+    Getopt::Long:                  0
+    IO::File:                      0
+    IO::Handle:                    0
+    List::Util:                    0
+    Scalar::Util:                  0
+    Storable:                      0
+    Test::Harness:                 0
+    Test::More:                    0
+    Tie::Hash:                     0
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3

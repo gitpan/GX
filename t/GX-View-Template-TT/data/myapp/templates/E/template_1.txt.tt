@@ -1,0 +1,8 @@
+Template file: E/template_1.txt.tt
+Template file encoding: UTF-8
+Umlaute: ä ö ü
+Euro: €
+Smiley: ☺
+var_1: [% var_1 %]
+var_2: [% var_2 %]
+var_3: [% var_3 %]

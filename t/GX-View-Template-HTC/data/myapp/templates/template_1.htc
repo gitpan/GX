@@ -1,0 +1,8 @@
+Template file: template_1.htc
+Template file encoding: UTF-8
+Umlaute: ä ö ü
+Euro: €
+Smiley: ☺
+var_1: <!-- TMPL_VAR var_1 -->
+var_2: <!-- TMPL_VAR var_2 -->
+var_3: <!-- TMPL_VAR var_3 -->

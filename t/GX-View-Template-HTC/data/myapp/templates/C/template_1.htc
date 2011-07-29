@@ -1,0 +1,7 @@
+Template file: C/template_1.htc
+Template file encoding: windows-1252
+Umlaute: ä ö ü
+Euro: €
+var_1: <!-- TMPL_VAR var_1 -->
+var_2: <!-- TMPL_VAR var_2 -->
+var_3: <!-- TMPL_VAR var_3 -->

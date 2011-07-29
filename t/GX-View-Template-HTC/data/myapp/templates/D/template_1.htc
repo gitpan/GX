@@ -1,0 +1,5 @@
+Template file: D/template_1.htc
+Template file encoding: UTF-8
+var_1: <!-- TMPL_VAR context -->
+var_2: <!-- TMPL_VAR context.stash.var_2 -->
+var_3: <!-- TMPL_VAR var_3 -->

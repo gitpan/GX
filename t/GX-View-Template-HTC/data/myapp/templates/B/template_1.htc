@@ -1,0 +1,6 @@
+Template file: B/template_1.htc
+Template file encoding: ISO-8859-1
+Umlaute: ä ö ü
+var_1: <!-- TMPL_VAR var_1 -->
+var_2: <!-- TMPL_VAR var_2 -->
+var_3: <!-- TMPL_VAR var_3 -->

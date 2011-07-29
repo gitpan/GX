@@ -1,0 +1,45 @@
+GX - The Web Framework for Perl
+===============================
+
+Copyright (c) 2009-2011 Jörg A. Uzarek <uzarek@runlevelnull.de>
+
+
+RELEASE NOTES
+-------------
+
+This is a PRE-ALPHA release. The ususal warnings apply.
+
+Please report all bugs and issues via the CPAN Request Tracker or directly to
+<bugs@gxframework.org>.
+
+
+INSTALLATION
+------------
+
+To install the modules and scripts in this distribution type the following:
+
+    perl Makefile.PL
+    make
+    make test
+    make install
+
+
+SUPPORT
+-------
+
+Visit http://www.gxframework.org/
+
+
+LICENSE INFORMATION
+-------------------
+
+The GX Framework is free software: you can redistribute it and/or modify it
+under the terms of the GNU General Public License Version 3 as published by
+the Free Software Foundation.
+
+The GX Framework is distributed in the hope that it will be useful, but
+without any warranty; without even the implied warranty of merchantability or
+fitness for a particular purpose.
+
+For details, see the full text of the license in the file COPYING.
+
